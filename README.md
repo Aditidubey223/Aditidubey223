@@ -1,4 +1,4 @@
-  ![MasterHead](https://drive.google.com/file/d/1j8EUtxwFS6c1Aw7MqRj4CgO6YWYY8rD6/view?usp=sharing)
+ 
 <h1 align="center">Hi 👋, I'm ADITI DUBEY</h1>
 <h3 align="center">I'm enthusiastic girl ,and am enthusiastic to gain new knowledge, skills, and techniques.</h3>
 
