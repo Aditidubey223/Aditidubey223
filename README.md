@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm ADITI DUBEY</h1>
 <h3 align="center">I'm enthusiastic girl ,and am enthusiastic to gain new knowledge, skills, and techniques.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditidubey223&label=Profile%20views&color=0e75b6&style=flat" alt="aditidubey223" /> </p
 
-- 🌱 I’m currently learning **different skills and technologies, like c++,linux, designing, animation and many more .**
+- 🌱 I’m currently learning **different skills and technologies, like c++,linux, designing, animation and much more .**
 
 - 👨‍💻 All of my projects are available at [https://www.instagram.com/aditianimation/](https://www.instagram.com/aditianimation/)
 
