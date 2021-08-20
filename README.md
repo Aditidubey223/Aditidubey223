@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditidubey223&label=Profile%20views&color=0e75b6&style=flat" alt="aditidubey223" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@aditi_dubey9669" target="blank"><img src="https://img.shields.io/twitter/follow/@aditi_dubey9669?logo=twitter&style=for-the-badge" alt="@aditi_dubey9669" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Aditi_Dubey9669" target="blank"><img src="https://img.shields.io/twitter/follow/@aditi_dubey9669?logo=twitter&style=for-the-badge" alt="@Aditi_Dubey9669" /></a> </p>
 
 - 🌱 I’m currently learning **different skills and technologies, like c++,linux, designing, animation and many more .**
 
@@ -15,13 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@aditi_dubey9669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aditi_dubey9669" height="30" width="40" /></a>
+<a href="https://twitter.com/@aditi_dubey9669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Aditi_Dubey9669" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditi dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi dubey" height="30" width="40" /></a>
 <a href="https://fb.com/aditi dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditi dubey" height="30" width="40" /></a>
 <a href="https://instagram.com/aditidubey_9669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditidubey_9669" height="30" width="40" /></a>
 <a href="https://www.behance.net/aditi dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aditi dubey" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditidubey9669" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditidubey9669" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aditidubey9898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditidubey9898" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
