@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ADITI DUBEY</h1>
 <h3 align="center">I'm enthusiastic girl ,and am enthusiastic to gain new knowledge, skills, and techniques.</h3>
 
-
+https://user-images.githubusercontent.com/84570668/155702271-12f5d3aa-0479-420a-b279-7a7349562460.mp4
 - 🌱 I’m currently learning **different skills and technologies, like c++,linux, designing, animation and much more .**
 
 - 👨‍💻 All of my projects are available at [https://www.instagram.com/aditianimation/](https://www.instagram.com/aditianimation/)
