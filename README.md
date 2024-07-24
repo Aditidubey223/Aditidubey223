@@ -1,8 +1,6 @@
  <img align="center" src="https://raw.githubusercontent.com/Aditidubey223/Aditidubey223/main/“Creativity is thinking up new things. Innovation is doing new things.”.png"/></a>
 
 <h1 align="center">Hi 👋, I'm ADITI DUBEY</h1>
-<h3 align="center">I'm enthusiastic girl ,and am enthusiastic to gain new knowledge, skills, and techniques.
-
 Sure, I can help you create a GitHub Profile README! Here's a template to get you started:
 
 Hi there 👋, I'm Aditi Dubey!
