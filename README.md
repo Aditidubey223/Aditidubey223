@@ -1,7 +1,28 @@
  <img align="center" src="https://raw.githubusercontent.com/Aditidubey223/Aditidubey223/main/“Creativity is thinking up new things. Innovation is doing new things.”.png"/></a>
 
 <h1 align="center">Hi 👋, I'm ADITI DUBEY</h1>
-<h3 align="center">I'm enthusiastic girl ,and am enthusiastic to gain new knowledge, skills, and techniques.</h3>
+<h3 align="center">I'm enthusiastic girl ,and am enthusiastic to gain new knowledge, skills, and techniques.
+
+Sure, I can help you create a GitHub Profile README! Here's a template to get you started:
+
+Hi there 👋, I'm Aditi Dubey!
+
+🌟 About Me
+I'm a self-taught UI Designer passionate about creating intuitive and visually appealing user interfaces. I believe in the power of design to solve problems and enhance user experiences.
+
+🔭 Currently working on:
+Logo project related to water and nature 🌊
+Brand strategy for various clients
+Designing a portfolio to showcase my work
+🌱 Learning and exploring more about:
+Advanced UI/UX design principles
+Brand strategy and development
+🎥 Starting a YouTube channel to share my skills, projects, and resume
+💬 Ask me about:
+UI/UX design
+Branding
+Portfolio creation
+</h3>
 
 https://user-images.githubusercontent.com/84570668/155703029-15097145-a8c1-4950-9624-6573f3e3af33.mp4
 - 🌱 I’m currently learning **different skills and technologies, like c++,linux, designing, animation and much more .**
