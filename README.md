@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/84570668/155703029-15097145-a8c1-4950-
 
 - 👨‍💻 All of my projects are available at [https://www.instagram.com/aditianimation/](https://www.instagram.com/aditianimation/)
 
-- 📫 How to reach me **dubeyaditi9898@gmail.com**
+- 📫 How to reach me **aditidubey9131@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
